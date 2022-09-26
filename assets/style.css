@@ -1,0 +1,21 @@
+* {
+    background-color: lightblue;
+}
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+main h2 {
+    text-align: center;
+}
+button {
+    background-color: red;
+}
+footer {
+    text-align: center;
+}
+#startButton {
+    cursor: pointer;
+    font-size: 20px;
+}
